@@ -4,7 +4,6 @@ export default function Synonyms(props) {
     if (props.synonyms) {
         return (
             <div className="Synonyms">
-                <p>
                 <strong>
                     Synonyms: 
                  </strong>
@@ -19,7 +18,6 @@ export default function Synonyms(props) {
 
                  }
                 </ul>
-                </p>
             </div>
         )
     } else {
