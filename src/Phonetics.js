@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import ReactAudioPlayer from 'react-audio-player';
+import "./Phonetics.css";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import {library} from '@fortawesome/fontawesome-svg-core'
 import {

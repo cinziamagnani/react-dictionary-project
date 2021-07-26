@@ -1,0 +1,19 @@
+.Results {
+    margin-top: 40px;
+}
+
+.Results section {
+    padding: 0 20px;
+}
+
+.Results hr {
+    border: 2px solid #000000;
+    opacity: 1;
+}
+
+.Results h2 {
+    font-size: 60px;
+    font-weight: 600;
+    text-align: left;
+    margin: 20px 0 5px;
+}
