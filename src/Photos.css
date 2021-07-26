@@ -8,3 +8,10 @@
     margin: 8px 0;
     border-radius: 5px;
 }
+
+@media (max-width: 960px) {
+    .Photos img {
+        display: block;
+        margin: 8px auto;
+    }
+}
